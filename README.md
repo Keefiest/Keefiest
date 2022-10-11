@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 # 💫 About Me:
-⚡ My nickname is Keefiest, also know as Ahmed<br>🌱 I’m currently learning web developpement<br>🔭 I’m currently working on sql project
+⚡ My nickname is Keefiest, also know as Ahmed<br>🌱 I’m currently learning Web developpement<br>🔭 I’m currently working on sql project
 
 
 # 💻 Tech Stack:
